@@ -8,6 +8,6 @@ public class Main
 		int b=3;
 
 		System.out.println("La somma è "+(a+b));
-		System.out.println("aggiornamento thilan");
+		System.out.println("aggiornamento thilan,rubato da stefano");
 	}
 }
